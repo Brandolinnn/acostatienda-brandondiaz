@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.divHeader {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  background-color: gray;
+}
+
+.loguito {
+  width: 60px;
+  display: flex;
+  justify-content: right;
+}
+
+a {
+  margin-top: 8px;
+  padding-right: 10px;
+  color: aliceblue;
+}
+
+li {
+  margin-top: 8px;
+  margin: 10px;
+  
+}
